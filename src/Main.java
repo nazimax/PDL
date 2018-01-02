@@ -9,8 +9,6 @@ public class Main {
 
     }
 
-    public int som(int a, int b){
-        return a+b;
-    }
+
 
 }

@@ -2,7 +2,7 @@
  * Created by kissi on 28/12/17.
  */
 public class Systeme {
-    Piece piece=new Piece(0);
+    Piece piece=new Piece(10);
 
     DispositifArrivee Da=new DispositifArrivee(piece.nombre);
     DispositifTransport Dt= new DispositifTransport();
